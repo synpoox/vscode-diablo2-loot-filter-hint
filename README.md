@@ -8,7 +8,7 @@ Currentlly supports these derivations:
 ## Installation
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
 2. Click `Extensions` button on the left side of VS Code (`CTRL`+`SHIFT`+`X`).
-3. Search for `diablo2-loot-filter-hint` extension and install it.
+3. Search for `d2-loot-filter-hints` extension and install it.
 4. Reload VS Code
 5. Make sure to select correct language mode after opening `.filter` file.
 
@@ -23,3 +23,6 @@ Currentlly supports these derivations:
 * Completion and hover providers (keywords, item codes)
 * Code folding using user defined regions
 * Snippets (ItemDisplay, regions)
+
+## Credits
+* Original extension by TommyC90
