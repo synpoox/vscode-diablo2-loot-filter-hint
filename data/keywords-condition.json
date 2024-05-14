@@ -312,6 +312,22 @@
             "name": "% effective defense/damage"
         },
         {
+            "id": "EDEF",
+            "name": "% Enhanced Defense, includes bonuses from runewords and sockets"
+        },
+        {
+            "id": "EDAM",
+            "name": "% Enhanced Damage, includes bonuses from runewords and sockets"
+        },
+        {
+            "id": "MAXDUR",
+            "name": "Increase Maximum Durability %"
+        },
+        {
+            "id": "AR",
+            "name": "+ to Attack Rating"
+        },
+        {
             "id": "RES",
             "name": "% to all resistances"
         },

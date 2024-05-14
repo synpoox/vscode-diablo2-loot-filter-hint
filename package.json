@@ -2,10 +2,10 @@
     "name": "diablo2-loot-filter-hint",
     "displayName": "Diablo 2 Loot Filter Hints",
     "description": "Diablo 2 LoD loot filter langauge (based on BH Maphack) and hints extension",
-    "version": "1.5.0",
+    "version": "1.0.0",
     "license": "GPL-3.0",
-    "publisher": "tommyc90",
-    "author": "tommyc90",
+    "publisher": "synpoo",
+    "author": "synpoo",
     "main": "./extension/main",
     "categories": [
         "Programming Languages",
@@ -31,7 +31,6 @@
                 "extensions": [
                     ".filter"
                 ],
-                "filenames": ["item.filter"],
                 "configuration": "./language-configuration.json"
             },
             {
@@ -67,6 +66,6 @@
     },
     "repository": {
 		"type": "git",
-		"url": "https://github.com/tommyc90/vscode-diablo2-loot-filter-hint"
+		"url": "https://github.com/synpoox/vscode-diablo2-loot-filter-hint"
 	}
 }

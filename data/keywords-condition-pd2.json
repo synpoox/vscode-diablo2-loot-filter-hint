@@ -35,8 +35,47 @@
             "id": "ZON",
             "name": "Amazon weapons"
         },
+        {
+            "id": "CLASS",
+            "name": "All class-restricted items"
+        },
 
-
+        {
+            "id": "AMAZON",
+            "name": "character is an Amazon"
+        },
+        {
+            "id": "ASSASSIN",
+            "name": "character is an Assassin"
+        },
+        {
+            "id": "BARBARIAN",
+            "name": "character is a Barbarian"
+        },
+        {
+            "id": "DRUID",
+            "name": "character is a Druid"
+        },
+        {
+            "id": "NECROMANCER",
+            "name": "character is a Necromancer"
+        },
+        {
+            "id": "PALADIN",
+            "name": "character is a Paladin"
+        },
+        {
+            "id": "SORCERESS",
+            "name": "character is a Sorceress"
+        },
+        {
+            "id": "SHOP",
+            "name": "item is in a merchant's shop window"
+        },
+        {
+            "id": "EQUIPPED",
+            "name": "item is equipped by the character"
+        },
 
         {
             "id": "AXE",
@@ -226,6 +265,31 @@
         {
             "id": "FOOLS",
             "name": "Fool's mod"
+        },
+
+        {
+            "id": "MAPID",
+            "name": "Current zone 1-175"
+        },
+        {
+            "id": "MAPTIER",
+            "name": "Map tier 0-5"
+        },
+        {
+            "id": "PREFIX",
+            "name": "Item prefix 1-805"
+        },
+        {
+            "id": "SUFFIX",
+            "name": "Item suffix 1-900"
+        },
+        {
+            "id": "AUTOMOD",
+            "name": "Item automod 1-44"
+        },
+        {
+            "id": "FILTLVL",
+            "name": "Filter strictness level 0-9"
         }
     ]
 }

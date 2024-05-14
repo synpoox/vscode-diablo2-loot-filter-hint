@@ -301,6 +301,38 @@
                 {
                     "id": "lbox",
                     "name": "Larzuk's Puzzlebox"
+                },
+                {
+                    "id": "lpp",
+                    "name": "Larzuk's Puzzlepiece"
+                },
+                {
+                    "id": "lmal",
+                    "name": "Larzuk's Malus"
+                },
+                {
+                    "id": "rtp",
+                    "name": "Horadric Navigator"
+                },
+                {
+                    "id": "rid",
+                    "name": "Horadric Almanac"
+                },
+                {
+                    "id": "rkey",
+                    "name": "Skeleton Key"
+                },
+                {
+                    "id": "lsvl",
+                    "name": "Vial of Lightsong"
+                },
+                {
+                    "id": "llmr",
+                    "name": "Lilith's Mirror"
+                },
+                {
+                    "id": "pvpp",
+                    "name": "Dueling Mana Potion"
                 }
             ]
         },
@@ -311,20 +343,40 @@
                     "name": "Zakarum Orb"
                 },
                 {
+                    "id": "irra",
+                    "name": "Infused Zakarum Orb"
+                },
+                {
                     "id": "imma",
                     "name": "Arcane Orb"
+                },
+                {
+                    "id": "irma",
+                    "name": "Infused Arcane Orb"
                 },
                 {
                     "id": "scou",
                     "name": "Orb of Destruction"
                 },
                 {
+                    "id": "fort",
+                    "name": "Orb of Fortification"
+                },
+                {
                     "id": "rera",
                     "name": "Horadrim Orb"
                 },
                 {
+                    "id": "rrra",
+                    "name": "Infused Horadrim Orb"
+                },
+                {
                     "id": "upma",
                     "name": "Angelic Orb"
+                },
+                {
+                    "id": "urma",
+                    "name": "Infused Angelic Orb"
                 },
                 {
                     "id": "upmp",
@@ -333,11 +385,35 @@
                 {
                     "id": "scrb",
                     "name": "Horadrim Scarab"
+                },
+                {
+                    "id": "iwss",
+                    "name": "Catalyst Shard"
                 }
             ]
         },
         {
             "data": [
+                {
+                    "id": "uba",
+                    "name": "Relic of the Ancients"
+                },
+                {
+                    "id": "ubaa",
+                    "name": "Sigil of Madawc"
+                },
+                {
+                    "id": "ubab",
+                    "name": "Sigil of Talic"
+                },
+                {
+                    "id": "ubac",
+                    "name": "Sigil of Korlic"
+                },
+                {
+                    "id": "ubtm",
+                    "name": "Pandemonium Talisman"
+                },
                 {
                     "id": "dcma",
                     "name": "Vision of Terror"
@@ -355,8 +431,20 @@
                     "name": "Prime Evil Soul"
                 },
                 {
-                    "id": "ubtm",
-                    "name": "Pandemonium Talisman"
+                    "id": "rtma",
+                    "name": "Voidstone"
+                },
+                {
+                    "id": "rtmv",
+                    "name": "Splinter of the Void"
+                },
+                {
+                    "id": "rtmo",
+                    "name": "Trang-Oul's Jawbone"
+                },
+                {
+                    "id": "cm2f",
+                    "name": "Hellfire Ashes"
                 }
             ]
         },
@@ -373,6 +461,18 @@
                 {
                     "id": "t13",
                     "name": "Bastion Keep Map"
+                },
+                {
+                    "id": "t14",
+                    "name": "Sanatorium Map"
+                },
+                {
+                    "id": "t15",
+                    "name": "Royal Crypts Map"
+                },
+                {
+                    "id": "t16",
+                    "name": "Ruined Cistern Map"
                 },
                 {
                     "id": "t21",
@@ -395,6 +495,10 @@
                     "name": "Sewers of Harrogath Map"
                 },
                 {
+                    "id": "t26",
+                    "name": "Shadows of Westmarch Map"
+                },
+                {
                     "id": "t31",
                     "name": "River of Blood Map"
                 },
@@ -404,7 +508,7 @@
                 },
                 {
                     "id": "t33",
-                    "name": "Reziarfg's Lair Map"
+                    "name": "Lost Temple Map"
                 },
                 {
                     "id": "t34",
@@ -431,8 +535,36 @@
                     "name": "Kehjistan Marketplace Map"
                 },
                 {
+                    "id": "t3a",
+                    "name": "Ashen Plains Map"
+                },
+                {
                     "id": "t41",
                     "name": "Cathedral of Light"
+                },
+                {
+                    "id": "t42",
+                    "name": "Plains of Torment"
+                },
+                {
+                    "id": "t43",
+                    "name": "Sanctuary of Sin"
+                },
+                {
+                    "id": "t44",
+                    "name": "Steppes of Daken-Shar"
+                },
+                {
+                    "id": "t51",
+                    "name": "Zhar's Sanctum"
+                },
+                {
+                    "id": "t52",
+                    "name": "Stygian Caverns"
+                },
+                {
+                    "id": "t53",
+                    "name": "Fallen Gardens"
                 },
                 {
                     "id": "t61",
@@ -441,6 +573,54 @@
                 {
                     "id": "t62",
                     "name": "Moor Duel Arena"
+                }
+            ]
+        },
+        {
+            "data": [
+                {
+                    "id": "crfb",
+                    "name": "Blood Craft Infusion"
+                },
+                {
+                    "id": "crfc",
+                    "name": "Caster Craft Infusion"
+                },
+                {
+                    "id": "crfs",
+                    "name": "Safety Craft Infusion"
+                },
+                {
+                    "id": "crfh",
+                    "name": "Hitpower Craft Infusion"
+                },
+                {
+                    "id": "crfv",
+                    "name": "Vampiric Craft Infusion"
+                },
+                {
+                    "id": "crfu",
+                    "name": "Bountiful Craft Infusion"
+                },
+                {
+                    "id": "crfp",
+                    "name": "Brilliant Craft Infusion"
+                }
+            ]
+        },
+        {
+            "data": [
+                {
+                    "id": "rar",
+                    "name": "Cage of the Unsullied"
+                },
+                {
+                    "id": "rbe",
+                    "name": "Band of Skulls"
+                },
+                {
+                    "id": "ram",
+                    "name": "The Third Eye"
                 }
             ]
         }

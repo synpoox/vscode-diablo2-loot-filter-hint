@@ -1,17 +1,16 @@
-# Diablo 2 LoD loot filter language and hints README
+# Diablo 2 LoD Filter Language and Hints
 
 This is a visual studio code extension that provides markup and basic hints for the Diablo 2 LoD BH Maphack based `.filter` language.
 
 Currentlly supports these derivations:
-* Path of Diablo (Perlite)
-* Project Diablo 2 (Enlightenment)
+* Project Diablo 2 Season 9 Anarchy
 
 ## Installation
-0. Install [Visual Studio Code](https://code.visualstudio.com/).
-1. Click `Extensions` button on the left side of VS Code (`CTRL`+`SHIFT`+`X`).
-2. Search for `diablo2-loot-filter-hint` extension and install it.
-3. Reload VS Code
-4. Make sure to select correct language mode after opening `.filter` file.
+1. Install [Visual Studio Code](https://code.visualstudio.com/).
+2. Click `Extensions` button on the left side of VS Code (`CTRL`+`SHIFT`+`X`).
+3. Search for `diablo2-loot-filter-hint` extension and install it.
+4. Reload VS Code
+5. Make sure to select correct language mode after opening `.filter` file.
 
 ## Preview
 
