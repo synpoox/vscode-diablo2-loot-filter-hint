@@ -3,6 +3,10 @@
       "prefix": "item",
       "body": "ItemDisplay[$0]: "
     },
+    "Item Display Filter Name": {
+      "prefix": "idfn",
+      "body": "ItemDisplayFilterName[$0]: "
+    },
     "Begin Region": {
       "prefix": "region",
       "body": "//#region $0"
