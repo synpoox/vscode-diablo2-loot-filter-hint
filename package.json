@@ -1,11 +1,11 @@
 {
-    "name": "diablo2-loot-filter-hint",
-    "displayName": "Diablo 2 Loot Filter Hints",
-    "description": "Diablo 2 LoD loot filter langauge (based on BH Maphack) and hints extension",
+    "name": "d2-loot-filter-hints",
+    "displayName": "D2 Loot Filter Hints",
+    "description": "Diablo 2 loot filter langauge (based on BH Maphack) and hints extension",
     "version": "1.0.0",
     "license": "GPL-3.0",
-    "publisher": "synpoo",
-    "author": "synpoo",
+    "publisher": "Synpoo",
+    "author": "Synpoo",
     "main": "./extension/main",
     "categories": [
         "Programming Languages",
